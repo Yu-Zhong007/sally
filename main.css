@@ -78,7 +78,10 @@ p {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #01cab8;
+  z-index: 2;
+  filter: hue-rotate(180deg);
+  background-image: url('/bg-orange.svg');
+  background-size: cover;
 }
 
 .hero__content__top {
