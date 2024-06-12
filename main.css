@@ -1228,6 +1228,12 @@ p {
   color: #72bbff;
 }
 
+.p5{
+
+    color: #72bbff;
+  font-size:1.2rem;
+}
+
 .div-block {
   height: 100vh;
 }
@@ -4188,6 +4194,12 @@ p {
     margin-bottom: 0px;
     text-align: center;
   }
+
+  .p5{
+
+    color: #72bbff;
+  font-size:.8rem;
+}
 
   .paragraph-4.is--4 {
     max-width: 85%;
